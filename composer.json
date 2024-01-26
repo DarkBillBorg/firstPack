@@ -1,15 +1,15 @@
 {
-    "name": "so/first-pack",
+    "name": "odl/first-pack",
     "description": "My Laravel first package",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "So\\FirstPack\\": "src/"
+            "Odl\\FirstPack\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Borg ODL",
+            "name": "odl",
             "email": "diborgiaso@gmail.com"
         }
     ],

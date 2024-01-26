@@ -1,5 +1,5 @@
 <?php
-namespace So\FirstPack;
+namespace Odl\FirstPack;
 
 final class FirstPack 
 {
