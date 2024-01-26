@@ -1,0 +1,17 @@
+{
+    "name": "so/first-pack",
+    "description": "My Laravel first package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "So\\FirstPack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Borg ODL",
+            "email": "diborgiaso@gmail.com"
+        }
+    ],
+    "require": {}
+}
